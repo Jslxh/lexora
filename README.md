@@ -29,3 +29,7 @@ https://huggingface.co/spaces/Jslxh/lexora-ai
 ```bash
 pip install -r requirements.txt
 python app.py
+```
+## Author
+
+Jaya Shree Lakshmi S
